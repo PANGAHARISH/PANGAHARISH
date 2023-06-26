@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **IICS MDM**
 
-- 💬 Ask me about **SQL,Python,Power Bi,Snowflake,Pypark,IICS CDI**
+- 💬 Ask me about **SQL,Python,Power Bi,Snowflake,Pypark,IICS CDI,MDM**
 
 - 📫 How to reach me **harisharish75@gmail.com**
 
