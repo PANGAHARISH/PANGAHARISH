@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harish Panga</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
-<p align="left"> <img src="https://www.bing.com/images/search?view=detailV2&ccid=kRaLSHP2&id=E5EE4B49E2DDD9439ACC4FA1A0D42A631ECCE766&thid=OIP.kRaLSHP2ZZs-n9_kuJzYZAHaFj&mediaurl=https%3a%2f%2fcapturly.com%2fblog%2fwp-content%2fuploads%2f2018%2f02%2fData-Website-Analytics.gif&exph=600&expw=800&q=animated+data+and+analytics++gif&simid=607995609615654191&FORM=IRPRST&ck=958CB80F05F82B9459EB88336BDF4792&selectedIndex=11&ajaxhist=0&ajaxserp=0" alt="pangaharish" /> </p>
+<p align="left"> <img src="https://www.saleshacker.com/wp-content/uploads/2017/12/sales-consultant-interview-questions-1024x541.png" alt="pangaharish" /> </p>
 
 - 🔭 I’m currently working on **Data & Analytics**
 
