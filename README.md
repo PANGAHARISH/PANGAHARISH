@@ -30,19 +30,7 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
-  <a href="https://www.xilinx.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Xilinx_logo.svg" alt="xilinx" width="40" height="40"/>
-  </a>
-  <a href="https://www.intel.com/content/www/us/en/programmable/fpga.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Intel_logo_2020.svg" alt="intel" width="40" height="40"/>
-  </a>
   
-  <a href="https://www.verilog.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Verilog_logo.svg" alt="verilog" width="40" height="40"/>
-  </a>
-  <a href="https://www.systemverilog.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/SystemVerilog_logo.svg" alt="systemverilog" width="40" height="40"/>
-  </a>
  
   
 </p>
