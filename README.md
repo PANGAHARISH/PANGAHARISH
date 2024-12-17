@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harish Panga</h1>
 <h3 align="center">A passionate VLSI Engineer</h3>
 
-<p align="left"> <img src="https://www.google.com/imgres?q=vlsi&imgurl=https%3A%2F%2Fdras.in%2Fwp-content%2Fuploads%2F2021%2F04%2Fembedded1.jpg&imgrefurl=https%3A%2F%2Fdras.in%2Fvlsi-talent-and-issues-india-specific-overview%2F&docid=E0CSOE1sG_fW4M&tbnid=dPRD3dgddpGYpM&vet=12ahUKEwjd7v29kK-KAxX11TgGHWdcAk4QM3oECFEQAA..i&w=1600&h=1066&hcb=2&ved=2ahUKEwjd7v29kK-KAxX11TgGHWdcAk4QM3oECFEQAA" alt="harishpanga" /> </p>
+<p align="left"> <img src="https://www.google.com/imgres?q=vlsi&imgurl" alt="harishpanga" /> </p>
 
 - 🔭 I’m currently working on **VLSI Design, FMCW Radar Signal Processing, and FPGA Projects**
 - 🌱 I’m currently learning **System-on-Chip (SoC) Design** and **RTL Verification Techniques**
