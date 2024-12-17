@@ -36,7 +36,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
   <a href="https://www.xilinx.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Xilinx_logo.svg/1024px-Xilinx_logo.svg.png" alt="Xilinx Vivado" width="40" height="40"/>
+    <img src="https://en.wikipedia.org/wiki/File:AMD_Vivado_logo.svg" alt="Xilinx Vivado" width="40" height="40"/>
   </a>
   <a href="https://www.systemverilog.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/SystemVerilog_logo.svg" alt="SystemVerilog" width="40" height="40"/>
