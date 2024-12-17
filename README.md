@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harish Panga</h1>
 <h3 align="center">A passionate VLSI Engineer</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://dras.in/wp-content/uploads/2021/04/embedded1.jpg" alt="harishpanga" width="500" height="300" />
 </p>
 
