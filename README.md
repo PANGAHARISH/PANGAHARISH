@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Harish Panga</h1>
 <h3 align="center">A passionate VLSI Engineer</h3>
 
-<p align="left"> <img src="https://online.stanford.edu/sites/default/files/styles/figure_default/public/2019-11/design-projects-in-VLSI-systems_EE272.jpg?itok=JU1KIMj0" alt="harishpanga" /> </p>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/VLSI_Design_Projects.png" alt="harishpanga" />
+</p>
 
 - 🔭 I’m currently working on **VLSI Design, FMCW Radar Signal Processing, and FPGA Projects**
 - 🌱 I’m currently learning **System-on-Chip (SoC) Design** and **RTL Verification Techniques**
 - 💬 Ask me about **Verilog HDL, SystemVerilog, UMV, Digital System Design, Computer Architecture, Signal Processing, Radar Systems, Python, C, MATLAB**
 - 📫 How to reach me: **harisharish75@gmail.com**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/harish-panga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/harish-panga" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/harish-panga" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/harish-panga" height="30" width="40" />
+  </a>
   
-<a href="https://kaggle.com/https://www.kaggle.com/harishpanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/harishpanga" height="30" width="40" /></a>
+  <a href="https://kaggle.com/harishpanga" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/harishpanga" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +26,7 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -30,9 +35,6 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
-  
- 
-  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pangaharish&show_icons=true&locale=en&layout=compact" alt="pangaharish" /></p>
