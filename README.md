@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harish Panga</h1>
-<h3 align="center">A passionate VLSI Engineer and M.Tech student from IIT Roorkee</h3>
+<h3 align="center">A passionate VLSI Engineer</h3>
 
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/IIT_Roorkee_logo.png" alt="harishpanga" /> </p>
 
