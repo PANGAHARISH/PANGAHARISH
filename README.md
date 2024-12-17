@@ -2,7 +2,7 @@
 <h3 align="center">A passionate VLSI Engineer</h3>
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/VLSI_Design_Projects.png" alt="harishpanga" />
+  <img src="https://dras.in/wp-content/uploads/2021/04/embedded1.jpg" alt="harishpanga" />
 </p>
 
 - 🔭 I’m currently working on **VLSI Design, FMCW Radar Signal Processing, and FPGA Projects**
