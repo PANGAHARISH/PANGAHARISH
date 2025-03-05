@@ -5,9 +5,9 @@
   <img src="https://dras.in/wp-content/uploads/2021/04/embedded1.jpg" alt="harishpanga" width="500" height="300" />
 </p>
 
-- 🔭 I’m currently working on **FMCW Radar Signal Processing**
-- 🌱 I’m currently learning **System-on-Chip (SoC) Design** and **RTL Verification Techniques**
-- 💬 Ask me about **FMCW Radar systems,MATLAB,Signal Processing,Python,C**
+- 🔭 I’m currently working on **FMCW Radar Signal Processing, Sensor Fusion, and MATLAB Simulations**
+- 🌱 I’m currently learning **Phased Array Radar, Target Tracking Algorithms, and Advanced Signal Processing**
+- 💬 Ask me about **MATLAB, Simulink, Radar Systems, Signal Processing, Phased Array, Sensor Fusion, Python, C**
 - 📫 How to reach me: **harisharish75@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
