@@ -1,16 +1,20 @@
-<h1 align="center">Hi 👋, I'm Harish Panga</h1>
-<h3 align="center">Radar & Signal Processing Engineer | MATLAB & Simulink Enthusiast</h3>
+# Hi 👋, I'm Harish Panga
+
+## Aspiring VLSI Engineer | Radar & Signal Processing Enthusiast
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="harishpanga" width="400" height="200" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="400" height="200" />
 </p>
 
-- 🔭 I’m currently working on **FMCW Radar Signal Processing, Sensor Fusion, and MATLAB Simulations**
-- 🌱 I’m currently learning **Phased Array Radar, Target Tracking Algorithms, and Advanced Signal Processing**
-- 💬 Ask me about **MATLAB, Simulink, Radar Systems, Signal Processing, Phased Array, Sensor Fusion, Python, C**
-- 📫 How to reach me: **harisharish75@gmail.com**
+### About Me
+- 🌟 **Current Work**: RTL Design & Verification | FMCW Radar Signal Processing | Sensor Fusion  
+- 🌟 **Currently Learning**: ASIC Design Flow | FPGA Prototyping | Phased Array Radar | Digital Circuit Optimization  
+- 💡 **Ask me about**: VLSI, RTL Design (Verilog/VHDL), FPGA Prototyping, MATLAB, Radar Signal Processing  
+- 📧 **Reach Me At**: **harisharish75@gmail.com**  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/harish-panga" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish-panga" height="30" width="40" />
@@ -20,7 +24,9 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## Languages & Tools
 <p align="left">
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
@@ -31,9 +37,22 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-
+  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/46/Xilinx_Logo.svg" alt="Vivado" width="80" height="40"/>
+  </a>
+  <a href="https://www.synopsys.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Synopsys_logo.svg/250px-Synopsys_logo.svg.png" alt="Synopsys" width="80" height="40"/>
+  </a>
+  <a href="https://www.cadence.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Cadence_Design_Systems_logo.svg" alt="Cadence" width="80" height="40"/>
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pangaharish&show_icons=true&locale=en&layout=compact" alt="pangaharish" /></p>
+---
+
+## GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pangaharish&show_icons=true&locale=en&layout=compact" alt="pangaharish" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pangaharish&show_icons=true&locale=en" alt="pangaharish" /></p>
