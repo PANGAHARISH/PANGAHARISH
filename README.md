@@ -3,7 +3,7 @@
 ## Aspiring VLSI Engineer | Radar & Signal Processing Enthusiast
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="400" height="200" />
+  <img src="https://online.stanford.edu/sites/default/files/styles/widescreen_large/public/2019-11/design-projects-in-VLSI-systems_EE272.jpg?h=66807ab2&itok=dG7q-V3x" alt="VLSI Design" width="600" height="300" />
 </p>
 
 ### About Me
