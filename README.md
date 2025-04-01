@@ -3,7 +3,7 @@
 ## Aspiring VLSI Engineer | Radar & Signal Processing Enthusiast
 
 <p align="center">
-  <img src="https://online.stanford.edu/sites/default/files/styles/widescreen_large/public/2019-11/design-projects-in-VLSI-systems_EE272.jpg?h=66807ab2&itok=dG7q-V3x" alt="VLSI Design" width="600" height="300" />
+  <img src="https://dras.in/wp-content/uploads/2021/04/embedded1.jpg" alt="VLSI Design" width="600" height="300" />
 </p>
 
 ### About Me
