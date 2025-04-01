@@ -3,8 +3,7 @@
 ## Aspiring VLSI Engineer | Radar & Signal Processing Enthusiast
 
 <p align="center">
-  <img src=" https://wallpapercave.com/wp/wp9631392.jpg" alt="MATLAB" width="400" height="200" />
- 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="400" height="200" />
 </p>
 
 ### About Me
