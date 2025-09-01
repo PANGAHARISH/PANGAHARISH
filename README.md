@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harish Panga
 
-## Aspiring VLSI Engineer | Radar & Signal Processing Enthusiast
+## VLSI Engineer | Radar & Signal Processing Enthusiast
 
 <p align="center">
   <img src="https://dras.in/wp-content/uploads/2021/04/embedded1.jpg" alt="VLSI Design" width="600" height="300" />
