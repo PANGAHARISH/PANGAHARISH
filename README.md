@@ -37,15 +37,7 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/4/46/Xilinx_Logo.svg" alt="Vivado" width="80" height="40"/>
-  </a>
-  <a href="https://www.synopsys.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Synopsys_logo.svg/250px-Synopsys_logo.svg.png" alt="Synopsys" width="80" height="40"/>
-  </a>
-  <a href="https://www.cadence.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Cadence_Design_Systems_logo.svg" alt="Cadence" width="80" height="40"/>
-  </a>
+ 
 </p>
 
 ---
