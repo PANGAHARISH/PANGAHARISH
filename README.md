@@ -3,15 +3,13 @@
 ## Wireless Communication Engineer | 5G | SDR | Signal Processing | RF
 
 
-<p align="center">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt3d4d54955bda84c0/blte9f3a08edb43920d/66bb80ae574b3b5a96d546c5/6G_169_2.jpg?width=700&auto=webp&quality=80&disable=upscale" />
-</p>
+
 
 <p align="center">
   <img src="https://eu-images.contentstack.com/v3/assets/blt3d4d54955bda84c0/blte9f3a08edb43920d/66bb80ae574b3b5a96d546c5/6G_169_2.jpg" alt="VLSI Design" width="600" height="300" />
 </p>
 
-https://eu-images.contentstack.com/v3/assets/blt3d4d54955bda84c0/blte9f3a08edb43920d/66bb80ae574b3b5a96d546c5/6G_169_2.jpg?width=700&auto=webp&quality=80&disable=upscale
+
 
 🚀 **About Me**
 🎓 **M.Tech in Communication Systems(ECE)** – **IIT Roorkee**
