@@ -5,15 +5,18 @@
 <p align="center">
   <img src="https://dras.in/wp-content/uploads/2021/04/embedded1.jpg" alt="VLSI Design" width="600" height="300" />
 </p>
+<p align="center">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt3d4d54955bda84c0/blte9f3a08edb43920d/66bb80ae574b3b5a96d546c5/6G_169_2.jpg?width=700&auto=webp&quality=80&disable=upscale" />
+</p>
 
-### About Me
-- 🌟 **Current Work**: RTL Design & Verification | FMCW Radar Signal Processing | Sensor Fusion  
-- 🌟 **Currently Learning**: ASIC Design Flow | FPGA Prototyping | Phased Array Radar | Digital Circuit Optimization  
-- 💡 **Ask me about**: VLSI, RTL Design (Verilog/VHDL), FPGA Prototyping, MATLAB, Radar Signal Processing  
-- 📧 **Reach Me At**: **harisharish75@gmail.com**
+<p align="center">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt3d4d54955bda84c0/blte9f3a08edb43920d/66bb80ae574b3b5a96d546c5/6G_169_2.jpg" alt="VLSI Design" width="600" height="300" />
+</p>
 
-🚀 About Me
-🎓 **M.Tech in Communication Systems** – **IIT Roorkee**
+https://eu-images.contentstack.com/v3/assets/blt3d4d54955bda84c0/blte9f3a08edb43920d/66bb80ae574b3b5a96d546c5/6G_169_2.jpg?width=700&auto=webp&quality=80&disable=upscale
+
+🚀 **About Me**
+🎓 **M.Tech in Communication Systems(ECE)** – **IIT Roorkee**
 🔬 **Research Engineer** – Bharti School of Telecommunication Technology and Management, **IIT Delhi**
 📡 **Working on Wireless Communication, SDR (USRP), RF Systems, and Signal Processing**
 ⚙️ **Experience in FMCW Radar Signal Processing and Multi-sensor Systems**
