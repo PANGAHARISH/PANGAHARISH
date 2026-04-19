@@ -1,6 +1,6 @@
-# Hi 👋, I'm Harish Panga
 
-## VLSI Engineer | Radar & Signal Processing Enthusiast
+## Hi 👋, I'm Harish Panga
+## Wireless Communication Engineer | 5G | SDR | Signal Processing | RF
 
 <p align="center">
   <img src="https://dras.in/wp-content/uploads/2021/04/embedded1.jpg" alt="VLSI Design" width="600" height="300" />
@@ -10,9 +10,31 @@
 - 🌟 **Current Work**: RTL Design & Verification | FMCW Radar Signal Processing | Sensor Fusion  
 - 🌟 **Currently Learning**: ASIC Design Flow | FPGA Prototyping | Phased Array Radar | Digital Circuit Optimization  
 - 💡 **Ask me about**: VLSI, RTL Design (Verilog/VHDL), FPGA Prototyping, MATLAB, Radar Signal Processing  
-- 📧 **Reach Me At**: **harisharish75@gmail.com**  
+- 📧 **Reach Me At**: **harisharish75@gmail.com**
+
+🚀 About Me
+🎓 **M.Tech in Communication Systems** – **IIT Roorkee**
+🔬 **Research Engineer** – Bharti School of Telecommunication Technology and Management, **IIT Delhi**
+📡 **Working on Wireless Communication, SDR (USRP), RF Systems, and Signal Processing**
+⚙️ **Experience in FMCW Radar Signal Processing and Multi-sensor Systems**
+💡 **Strong interest in 5G/6G systems, Modem Design, PHY Layer, and RF implementation**
+🌍 **Open to global opportunities in Wireless, Modem, and DSP domains**
 
 ---
+🧠 **Technical Expertise**
+📶 Wireless Communication: OFDM, MIMO, 5G Fundamentals
+📡 SDR & RF Systems: USRP, Signal Transmission & Reception
+📊 Signal Processing: Radar Processing, Estimation, Detection
+💻 Programming: MATLAB, C, Python
+⚙️ Systems: Baseband Processing, Communication Systems
+
+
+📌**Featured Focus Areas**
+5G Network Architecture & PHY Layer
+SDR Implementation (USRP-based systems)
+RF Transceiver Design & Signal Chain
+Wireless System Modeling & Simulation
+
 
 ## Connect with Me
 <p align="left">
